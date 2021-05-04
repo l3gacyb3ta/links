@@ -12,5 +12,12 @@
     "description": "Not much yet, but we'll see!",
     "public": true,
     "url": "https://twitter.com/l3gacyb3ta"
+  },
+  {
+    "name": "p",
+    "title": "Preview",
+    "description": "A preview of the latest version of the site",
+    "public": true,
+    "url": "htttps://preview.raleighwi.se"
   }
 ]
