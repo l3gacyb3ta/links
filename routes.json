@@ -14,10 +14,17 @@
     "url": "https://twitter.com/l3gacyb3ta"
   },
   {
-    "name": "p",
+    "name": "pre",
     "title": "Preview",
     "description": "A preview of the latest version of the site",
     "public": true,
     "url": "https://preview.raleighwi.se"
+  },
+  {
+    "name": "p",
+    "title": "Polywork",
+    "description": "A modern professional social network.",
+    "public": true,
+    "url": "https://poly.raleighwi.se"
   }
 ]
